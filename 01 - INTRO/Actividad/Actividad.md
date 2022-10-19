@@ -20,6 +20,18 @@ Se necesita crear dos interfazes una para el administrador y otra para los usuar
 - Los colores pueden ser azul marino y blanco.
 
 ![Buyer persona_1](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/Marco%20abogabot.JPG)
+
+## Publico Objetivo
+
+Visualizacion de publico objetivo de nuestro proyecto Abogabot
+
+- Caracteristicas reunidad de nuestros tres ejemplos de Publico Objetivo
+![PublicoObjetivo1](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/PublicoObjetivo1.JPG)
+- Target del usuario Manuel
+![PublicoObjetivo2](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/PublicoObjetivo2.JPG)
+
+- Resumen de las caracteristicas de nuestor Publico Objetivo
+![PublicoObjetivo3](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/PublicoObjetivo3.JPG)
 ## Practicas
   - [Toma de requerimientos](./1.-requerimientos.md)
     - [Crea tu buyer persona](./2.-buyerPersona.md)
