@@ -32,6 +32,15 @@ Visualizacion de publico objetivo de nuestro proyecto Abogabot
 
 - Resumen de las caracteristicas de nuestor Publico Objetivo
 ![PublicoObjetivo3](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/PublicoObjetivo3.JPG)
+
+## Diseño UX
+
+- Abogabot Web desde Computador
+![Webabogabot](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/Webabogabot.JPG)
+- Abogabot desde Celular
+
+![CelularAbogabot](https://github.com/JosueMalla/MisionFrontEnd/blob/main/01%20-%20INTRO/Actividad/CelularAbogabot.JPG)
+
 ## Practicas
   - [Toma de requerimientos](./1.-requerimientos.md)
     - [Crea tu buyer persona](./2.-buyerPersona.md)
